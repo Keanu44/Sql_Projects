@@ -11,11 +11,11 @@
 
 **Review:**
 
-[Top Demand skills query](/sql_project/01_top_demanded_skills.sql)- High  demand skills analysis.
+[Top Demand skills query](01_top_demanded_skills.sql)- High  demand skills analysis.
 
-[Top Paying skills query](/sql_project/02_top_paying_skills.sql)- Salary analysis with aggregation.
+[Top Paying skills query](02_top_paying_skills.sql)- Salary analysis with aggregation.
 
-[Optimal skills query](/sql_project/03_optimal_skills.sql)- Combined demand salary optimization analysis.
+[Optimal skills query](03_optimal_skills.sql)- Combined demand salary optimization analysis.
 
 ## Tech Stack
 - **Query Engine:** DuckDB for fast analytical queries.
