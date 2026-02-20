@@ -1,6 +1,6 @@
 # Exploratory Data Analysis using SQL: Job Market Analysis
 
-![Project!_overview](Images\1_1_Project1_EDA.png)
+![Project!_overview](Images/1_1_Project1_EDA.png)
 
 **This is a sql project analyzing the data job market using real world job posting data turning businees questions into data driven insights**
 
